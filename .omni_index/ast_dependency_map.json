@@ -1,0 +1,594 @@
+[
+  {
+    "file": "CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "AGENTS.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [
+      "your"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "assets/logo.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".cursor-plugin/plugin.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/collections.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/explore.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/import.md",
+    "dependencies": [
+      "them",
+      "file",
+      "will"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/search.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/ask.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/data.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/quickstart.md",
+    "dependencies": [
+      "the",
+      "by",
+      "script",
+      "only"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/fetch.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/query.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/SKILL.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/query_agent_chatbot.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/agentic_rag.md",
+    "dependencies": [
+      "QueryAgent",
+      "weaviate.classes.config",
+      "connect_to_weaviate_cloud",
+      "weaviate.classes.query",
+      "Configure",
+      "preprocess",
+      "weaviate",
+      "client",
+      "elysia",
+      "FakeTextResponse",
+      "weaviate.agents.query",
+      "BaseModel",
+      "Filter",
+      "Literal",
+      "os",
+      "elysia.tools.text",
+      "typing",
+      "pydantic"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/basic_rag.md",
+    "dependencies": [
+      "connect_to_weaviate_cloud",
+      "weaviate",
+      "client",
+      "dspy",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/async_client.md",
+    "dependencies": [
+      "asynccontextmanager",
+      "contextlib",
+      "fastapi",
+      "AsyncGenerator",
+      "weaviate",
+      "pytest",
+      "Auth",
+      "os",
+      "typing",
+      "weaviate.classes.init",
+      "FastAPI"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/frontend_interface.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/environment_requirements.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/data_explorer.md",
+    "dependencies": [
+      "typing",
+      "fastapi",
+      "weaviate.collections",
+      "async",
+      "WeaviateAsyncClient",
+      "BaseModel",
+      "Query",
+      "os",
+      "pydantic",
+      "CollectionAsync",
+      "weaviate.client",
+      "status",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/pdf_multimodal_rag.md",
+    "dependencies": [
+      "BytesIO",
+      "weaviate.classes.config",
+      "weaviate.classes.query",
+      "Configure",
+      "weaviate",
+      "Auth",
+      "ollama",
+      "Filter",
+      "io",
+      "os",
+      "base64",
+      "weaviate.classes.init",
+      "MetadataQuery"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/basic_agent.md",
+    "dependencies": [
+      "typing",
+      "Callable",
+      "Any",
+      "dspy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/advanced_rag.md",
+    "dependencies": [
+      "QueryAgent",
+      "weaviate.classes.query",
+      "client",
+      "weaviate.agents.query",
+      "BaseModel",
+      "Literal",
+      "Rerank",
+      "typing",
+      "pydantic"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate-cookbooks/references/project_setup.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/SKILL.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/explore_collection.py",
+    "dependencies": [
+      "weaviate",
+      "weaviate_conn",
+      "weaviate.classes",
+      "sys",
+      "typer",
+      "get_client",
+      "weaviate.collections.classes.config",
+      "Metrics",
+      "json",
+      "weaviate.classes.aggregate",
+      "DataType"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/example_data.py",
+    "dependencies": [
+      "WeaviateClient",
+      "weaviate",
+      "datasets",
+      "datetime",
+      "load_dataset",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "re",
+      "get_client",
+      "weaviate.client",
+      "Property",
+      "stopped",
+      "weaviate.classes.config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/import.py",
+    "dependencies": [
+      "weaviate",
+      "itertools",
+      "csv",
+      "re",
+      "convert_from_path",
+      "base64",
+      "json",
+      "failures.",
+      "Path",
+      "pathlib",
+      "BytesIO",
+      "Configure",
+      "weaviate_conn",
+      "sys",
+      "io",
+      "Any",
+      "collections.abc",
+      "pdf2image",
+      "Iterator",
+      "typer",
+      "typing",
+      "weaviate.classes.config",
+      "get_client"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/ask.py",
+    "dependencies": [
+      "QueryAgent",
+      "weaviate",
+      "weaviate_conn",
+      "weaviate.agents.query",
+      "sys",
+      "typer",
+      "get_client",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/create_collection.py",
+    "dependencies": [
+      "weaviate",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "get_client",
+      "json",
+      "weaviate.classes.config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/keyword_search.py",
+    "dependencies": [
+      "weaviate.classes.query",
+      "weaviate",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "get_client",
+      "json",
+      "MetadataQuery"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/fetch_filter.py",
+    "dependencies": [
+      "weaviate",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "get_client",
+      "Filter",
+      "typing",
+      "json",
+      "weaviate.classes.query",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/list_collections.py",
+    "dependencies": [
+      "weaviate",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "get_client",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/semantic_search.py",
+    "dependencies": [
+      "weaviate.classes.query",
+      "weaviate",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "get_client",
+      "json",
+      "MetadataQuery"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/get_collection.py",
+    "dependencies": [
+      "weaviate",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "get_client",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/weaviate_conn.py",
+    "dependencies": [
+      "WeaviateClient",
+      "contextmanager",
+      "contextlib",
+      "AdditionalConfig",
+      "weaviate.classes.init",
+      "Generator",
+      "weaviate",
+      "weaviate_conn",
+      "Auth",
+      "sys",
+      "get_client",
+      "os",
+      "weaviate.client",
+      "typing",
+      "Path",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/hybrid_search.py",
+    "dependencies": [
+      "weaviate.classes.query",
+      "weaviate",
+      "weaviate_conn",
+      "sys",
+      "typer",
+      "get_client",
+      "json",
+      "MetadataQuery"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/scripts/query_search.py",
+    "dependencies": [
+      "QueryAgent",
+      "weaviate",
+      "weaviate_conn",
+      "weaviate.agents.query",
+      "sys",
+      "typer",
+      "get_client",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/keyword_search.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/create_collection.md",
+    "dependencies": [
+      "json",
+      "csv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/semantic_search.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/explore_collection.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/fetch_filter.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/get_collection.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/ask.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/environment_requirements.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/list_collections.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/hybrid_search.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/import_data.md",
+    "dependencies": [
+      "stats",
+      "and",
+      "will"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/query_search.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/weaviate/references/example_data.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".claude-plugin/plugin.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".claude-plugin/marketplace.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]

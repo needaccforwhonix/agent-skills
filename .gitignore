@@ -1,50 +1,43 @@
-# Python
-__pycache__/
-*.py[oc]
-*.egg-info/
-build/
-wheels/
-.venv
 
-# Ruff
-.ruff_cache
-
-# Node
-node_modules/
-dist/
-*.log
-
-# Environment
-.env
-.env.local
-.env.*.local
-
-# IDE / Editors / AI Assistant / CodeGen Tools
-.vscode/
-.cursor/
-.windsurf/
-.trae/
-.idea/
-*.iml
 .agent/
 .agents/
+build/
 .claude/
 .codex/
-.gemini/
-.goose/
-.kiro/
-.opencode/
-
-# Generated Skills
-.*/skills/
-
-# OS
-.DS_Store
-Thumbs.db
+.cursor/
 desktop.ini
-
-.pytest_cache/
-.mypy_cache/
-
-# Jupyter
+dist/
+.DS_Store
+*.egg-info/
+.env
+# Environment
+.env.*.local
+.env.local
+.gemini/
+# Generated Skills
+.goose/
+.idea/
+# IDE / Editors / AI Assistant / CodeGen Tools
+*.iml
 .ipynb_checkpoints
+# Jupyter
+.kiro/
+*.log
+.mypy_cache/
+# Node
+node_modules/
+.opencode/
+# OS
+__pycache__/
+*.py[oc]
+.pytest_cache/
+# Python
+# Ruff
+.ruff_cache
+.*/skills/
+Thumbs.db
+.trae/
+.venv
+.vscode/
+wheels/
+.windsurf/
